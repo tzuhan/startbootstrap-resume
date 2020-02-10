@@ -78,3 +78,52 @@ p.lead {
     }
   }
 }
+
+.fa-pixiv {
+  content: url("../img/icons/pixiv.png");
+  width: 1.5rem;
+  height: 1.4rem;
+}
+
+.fa-go {
+  content: url("../img/icons/go-dark.png");
+  width: 4rem
+}
+.fa-go:hover {
+  content: url("../img/icons/go-primary.png");
+}
+.fa-cpp {
+  content: url("../img/icons/cpp-dark.png");
+  width: 2.5rem
+}
+.fa-cpp:hover {
+  content: url("../img/icons/cpp-primary.png");
+}
+.fa-c {
+  content: url("../img/icons/c-dark.png");
+  width: 2.5rem
+}
+.fa-c:hover {
+  content: url("../img/icons/c-primary.png");
+}
+.fa-mysql {
+  content: url("../img/icons/mysql-dark.png");
+  width: 5rem
+}
+.fa-mysql:hover {
+  content: url("../img/icons/mysql-primary.png");
+}
+.fa-photoshop {
+  content: url("../img/icons/adobe-photoshop-dark.png");
+  width: 3rem
+}
+.fa-photoshop:hover {
+  content: url("../img/icons/adobe-photoshop-primary.png");
+}
+.fa-illustrator {
+  content: url("../img/icons/adobe-illustrator-dark.png");
+  width: 3rem
+}
+.fa-illustrator:hover {
+  content: url("../img/icons/adobe-illustrator-primary.png");
+}
