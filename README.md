@@ -2,9 +2,10 @@
 Forked from  [Start Bootstrap](https://github.com/BlackrockDigital/startbootstrap-resume/)
 
 ## Todo:
- 1. update text
+ 1. update multi-language text
  2. [css background image slideshow](https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/)
- 3. art project thumbnail
+ 3. art project thumbnail in intrests page
+ 4. [Animation](http://airbnb.io/lottie/#/README)
  
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)

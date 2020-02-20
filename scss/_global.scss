@@ -1,14 +1,27 @@
 // Global styling for this template
-
 body {
   @include body-font;
   padding-top: 54px;
   color: $gray-600;
 }
+#about {
+  background-image: url(../img/self-protrait.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: $sidebar-base-width;
+  }
+  #about {
+    background-image: url(../img/self-protrait-large.png);
+    background-position: right;
+    background-size: contain;
+    background-color: rgb(58,133,166);
   }
 }
 
@@ -27,6 +40,7 @@ h6 {
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
+  color: $white;
 }
 
 h2 {
@@ -37,9 +51,12 @@ h3 {
   font-size: 2rem;
 }
 
-p.lead {
-  font-size: 1.15rem;
+h3.lead {
+  font-size: 1.8rem;
   font-weight: 400;
+  color: $white;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 .subheading {
