@@ -12,7 +12,7 @@ body {
 }
 
 #about {
-  background-image: url(../img/self-protrait.png);
+  background-image: url(../img/self-portrait.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -25,7 +25,7 @@ body {
     padding-left: 17rem;
   }
   #about {
-    background-image: url(../img/self-protrait-large.png);
+    background-image: url(../img/self-portrait-large.png);
     background-position: right;
     background-size: contain;
     background-color: #3a85a6;

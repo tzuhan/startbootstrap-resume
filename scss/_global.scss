@@ -5,7 +5,7 @@ body {
   color: $gray-600;
 }
 #about {
-  background-image: url(../img/self-protrait.png);
+  background-image: url(../img/self-portrait.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -18,7 +18,7 @@ body {
     padding-left: $sidebar-base-width;
   }
   #about {
-    background-image: url(../img/self-protrait-large.png);
+    background-image: url(../img/self-portrait-large.png);
     background-position: right;
     background-size: contain;
     background-color: rgb(58,133,166);
