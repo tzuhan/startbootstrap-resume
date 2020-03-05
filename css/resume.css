@@ -27,8 +27,8 @@ body {
   #about {
     background-image: url(../img/self-portrait-large.png);
     background-position: right;
-    background-size: contain;
-    background-color: #3a85a6;
+    background-size: cover;
+    background-color: #c05c92;
   }
 }
 
